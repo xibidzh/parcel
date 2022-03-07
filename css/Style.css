@@ -219,11 +219,11 @@ body {
   color: #4565b6;
 }
 .twtr {
-  background: url(./img/twitter.svg) no-repeat 0px 0px;
+  background: url(../img/twitter.svg) no-repeat 0px 0px;
   padding: 1.5px 0px 1.5px 28px;
 }
 .discd {
-  background: url(./img/dicord.svg) no-repeat 0px 0px;
+  background: url(../img/dicord.svg) no-repeat 0px 0px;
   padding: 1.5px 0px 1.5px 32px;
 }
 .btn {
@@ -452,22 +452,22 @@ body {
   align-items: center;
 }
 .company_1 {
-  background: url(./img/trust/Bankle.svg) no-repeat 0px 0px;
+  background: url(../img/trust/Bankle.svg) no-repeat 0px 0px;
   padding: 10px 0 0px 42px;
   height: 30px;
 }
 .company_2 {
-  background: url(./img/trust/Indexcoop.svg) no-repeat 0px 0px;
+  background: url(../img/trust/Indexcoop.svg) no-repeat 0px 0px;
   padding: 10px 0 0px 42px;
   height: 30px;
 }
 .company_3 {
-  background: url(./img/trust/Compound\ Grants.svg) no-repeat 0px 0px;
+  background: url(../img/trust/Compound\ Grants.svg) no-repeat 0px 0px;
   padding: 10px 0 0px 42px;
   height: 30px;
 }
 .company_4 {
-  background: url(./img/trust/aave.svg) no-repeat 0px 0px;
+  background: url(../img/trust/aave.svg) no-repeat 0px 0px;
   padding: 10px 0 0px 42px;
   height: 30px;
 }
@@ -479,19 +479,19 @@ body {
   height: 30px;
 }
 .company_7 {
-  background: url(./img/trust/Olympus.svg) no-repeat 0px 0px;
+  background: url(../img/trust/Olympus.svg) no-repeat 0px 0px;
   padding: 10px 0 0px 42px;
   height: 30px;
 }
 /* .company_8 {
 } */
 .company_9 {
-  background: url(./img/trust/Party.svg) no-repeat 0px 0px;
+  background: url(../img/trust/Party.svg) no-repeat 0px 0px;
   padding: 10px 0 0px 42px;
   height: 30px;
 }
 .company_10 {
-  background: url(./img/trust/forefront.svg) no-repeat 0px 0px;
+  background: url(../img/trust/forefront.svg) no-repeat 0px 0px;
   padding: 10px 0 0px 42px;
   height: 30px;
 }
